@@ -1,8 +1,6 @@
 # React Disney Plus Clone
 
-[Demo](https://disney-plus-home-clone.web.app/).
-
-## This project was created using redux and firebase
+## [Demo](https://disney-plus-home-clone.web.app/)
 
 ### Features
 
