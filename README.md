@@ -1,6 +1,7 @@
 # React Disney Plus Clone
 
-## [Demo](https://disney-plus-home-clone.web.app/){:target="_blank"}
+<!-- ## [Demo](https://disney-plus-home-clone.web.app/) -->
+<a href="https://disney-plus-home-clone.web.app/" target="_blank"><h2>Demo<a>
 
 ### Features
 
