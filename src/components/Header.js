@@ -106,7 +106,6 @@ const Header = (props) => {
 
 const Nav = styled.nav`
   top: 0;
-  left: 0;
   right: 0;
   display: flex;
   position: fixed;
@@ -117,6 +116,7 @@ const Nav = styled.nav`
   padding: 0 36px;
   height: 70px;
   z-index: 3;
+  left: 0;
 `;
 
 const Logo = styled.a`
