@@ -2,6 +2,8 @@
 
 <!-- ## [Demo](https://disney-plus-home-clone.web.app/) -->
 <a href="https://disney-plus-home-clone.web.app/" target="_blank"><h2>Demo<a>
+  
+<img src="src/public/screen.png" alt="Screen Shot" />
 
 ### Features
 
